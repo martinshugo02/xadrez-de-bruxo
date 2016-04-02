@@ -13,8 +13,11 @@ The releases schedules could be found here: #todo
 ###3. How do I get involved?
 
 (Somethings are uncompleted yet, but very soon it will be finished.)
-You could read the paper at: https://goo.gl/E7yTSV 
-And check the all the documentation in the documentation folder here et at this link on Google Drive: #todo
+
+You could read the paper about this project at: https://goo.gl/E7yTSV 
+
+And check the all the documentation in the documentation folder here et at this link on Google Drive: https://goo.gl/2S0JCH
+
 If you need help or more information about the project, I will be happy for talking about this, just send me an email (italogsfernandes@gmail.com).
 
 ###4. How to set up the dev environment?
@@ -23,15 +26,18 @@ There are three versions, in one of them the Mit AppInventor is the main platafo
 
 ###5. How to ship a change?
 
-If you want to colabore constantly please send me an email and we will see what the best thing to be done. But if you just want to make it without too much commitment and beadledom, just take a look at the weekly schedules (at scrumblr.ca/Xadrez%20), or the schedule for all the project, and choose something - your aid will be helpfull and your name will be paper as a github collaborator.
+If you want to colabore constantly please send me an email and we will see what the best thing to be done. But if you just want to make it without too much commitment and beadledom, just take a look at the weekly schedules (at http://scrumblr.ca/xadrez-de-bruxo), or the schedule for all the project, and choose something - your aid will be helpfull and your name will be paper as a github collaborator.
 
 ###6. License and authors info
 
 This project is available under the #todo license, see the file licence.txt for more information.
 
 Ítalo Fernandes - Undergraduated Biomedical Engineering student at UFU - Uberlândia,MG - Brazil - email: italogsfernandes@gmail.com
+
 Ana Carolina Torres - #todo
+
 Paulo Eduardo Alves - #todo
+
 Gabriel Chagas Lanes - #todo
 
 
