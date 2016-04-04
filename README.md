@@ -1,4 +1,4 @@
-# xadrex-de-bruxo
+# xadrez-de-bruxo
 Projeto para o desenvolvimento um tabuleiro de xadrex controlado por voz.
 
 ###1. What does it do?
