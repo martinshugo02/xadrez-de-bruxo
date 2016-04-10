@@ -32,9 +32,11 @@ If you want to colaborate constantly please send me an email and we will see the
 
 This project is available under the #todo license, see the file licence.txt for more information.
 
-Ítalo Fernandes - Undergraduate Biomedical Engineering student at UFU - Uberlândia, MG - Brazil - email: italogsfernandes@gmail.com
+Ítalo Fernandes - Undergraduate Biomedical Engineering student at UFU - Uberlândia, MG - Brazil 
+email: italogsfernandes@gmail.com
 
-Ana Carolina Torres Cresto - Undergraduate Biomedical Engineering student at UFU - Uberlândia, MG - Brazil - email: caroltc95@icloud.com
+Ana Carolina Torres Cresto - Undergraduate Biomedical Engineering student at UFU - Uberlândia, MG - Brazil 
+email: caroltc95@icloud.com
 
 Paulo Eduardo Alves - Undergraduate Biomedical Engineering student at UFU - Uberlândia,MG - Brazil 
 
