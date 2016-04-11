@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 6fa9eb59100c27649b33e99af621788b
+timeCreated: 1451957751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bishop
+    100002: bishop.001
+    100004: bishop.002
+    100006: bishop.003
+    100008: Camera
+    100010: chessboard
+    100012: king
+    100014: king.001
+    100016: knight
+    100018: knight.001
+    100020: knight.002
+    100022: knight.003
+    100024: Lamp
+    100026: pawn
+    100028: pawn.001
+    100030: queen
+    100032: queen.001
+    100034: rook
+    100036: rook.001
+    100038: rook.002
+    100040: rook.003
+    100042: //RootNode
+    400000: bishop
+    400002: bishop.001
+    400004: bishop.002
+    400006: bishop.003
+    400008: Camera
+    400010: chessboard
+    400012: king
+    400014: king.001
+    400016: knight
+    400018: knight.001
+    400020: knight.002
+    400022: knight.003
+    400024: Lamp
+    400026: pawn
+    400028: pawn.001
+    400030: queen
+    400032: queen.001
+    400034: rook
+    400036: rook.001
+    400038: rook.002
+    400040: rook.003
+    400042: //RootNode
+    2300000: bishop
+    2300002: bishop.001
+    2300004: bishop.002
+    2300006: bishop.003
+    2300008: chessboard
+    2300010: king
+    2300012: king.001
+    2300014: knight
+    2300016: knight.001
+    2300018: knight.002
+    2300020: knight.003
+    2300022: pawn
+    2300024: pawn.001
+    2300026: queen
+    2300028: queen.001
+    2300030: rook
+    2300032: rook.001
+    2300034: rook.002
+    2300036: rook.003
+    3300000: bishop
+    3300002: bishop.001
+    3300004: bishop.002
+    3300006: bishop.003
+    3300008: chessboard
+    3300010: king
+    3300012: king.001
+    3300014: knight
+    3300016: knight.001
+    3300018: knight.002
+    3300020: knight.003
+    3300022: pawn
+    3300024: pawn.001
+    3300026: queen
+    3300028: queen.001
+    3300030: rook
+    3300032: rook.001
+    3300034: rook.002
+    3300036: rook.003
+    4300000: bishop.003
+    4300002: rook.003
+    4300004: king.001
+    4300006: queen.001
+    4300008: knight.003
+    4300010: pawn.001
+    4300012: bishop.001
+    4300014: knight.001
+    4300016: rook.001
+    4300018: chessboard
+    4300020: pawn
+    4300022: queen
+    4300024: king
+    6400000: bishop
+    6400002: bishop.001
+    6400004: bishop.002
+    6400006: bishop.003
+    6400008: chessboard
+    6400010: king
+    6400012: king.001
+    6400014: knight
+    6400016: knight.001
+    6400018: knight.002
+    6400020: knight.003
+    6400022: pawn
+    6400024: pawn.001
+    6400026: queen
+    6400028: queen.001
+    6400030: rook
+    6400032: rook.001
+    6400034: rook.002
+    6400036: rook.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
