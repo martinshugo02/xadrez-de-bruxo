@@ -75,7 +75,6 @@ void mover(int n, char modo, int time){
 
 
 }
-//TODO: controle do servo motor
 //Referencias: http://blog.filipeflop.com/motores-e-servos/controlando-motor-de-passo-5v-28byj-48-com-motor-shield.html
 //http://www.arduinoecia.com.br/2014/08/ponte-h-l298n-motor-de-passo.html
 //http://www.arduinoecia.com.br/2013/11/ligando-motor-de-passo-28byj-48-e.html
