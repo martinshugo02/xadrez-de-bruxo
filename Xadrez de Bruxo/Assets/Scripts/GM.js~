@@ -16,7 +16,8 @@ function FixedUpdate () {
 			ray = Camera.main.ScreenPointToRay (Input.mousePosition);
       		
 
-            if (Physics.Raycast(ray, hit, 100)) {
+            if (Physics.Raycast(ray, hit, 100)) 
+            {
      			objSelecionado = hit.transform;
      		
  				if(objSelecionado.CompareTag("Board")){
@@ -26,7 +27,7 @@ function FixedUpdate () {
 					 if(switcher){
 						switcher = false;
 						//sendfrom(piece.position.x+piece.position.z*10);
-						//sendto(local);
+						//sendfrom(local);
 						piece.position.x = local%10;
 						piece.position.z = local/10;
 					
