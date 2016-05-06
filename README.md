@@ -9,23 +9,23 @@ Tal tabuleiro usará de uma aplicação Android para o  reconhecimento de voz e 
 Neste repósitorio, estão presentes as informações necessárias para o desenvolvimento do software e construção do harware proposto.
 
 
-###3. Como fazer parte? 
+###2. Como colaborar e fazer parte? 
 
 Você pode visualizar qualquer arquivo referente as etapas de desenvolvimento neste link do Google Drive: https://goo.gl/2S0JCH
 Os códigos para serem executados e alterados, estão presentes nesse repositório.
 Se for preciso ajuda ou mais informações, só enviar um email para algum dos nomes que estão no final dessa descrição.
 
 
-###4. Como  configurar o ambiente de desenvolvimento?
+###3. Como começar a desenvolver?
 
 O desenvolvimento do app para Android está sendo feito por meio do Unity3D. Basta instala-lo e abrir a pasta "Xadrez de Bruxo" por ele.
 Existe uma versão para testes que foi feita usando o MIT App Inventor 2. Para trabalhar nela acesse "http://ai2.appinventor.mit.edu/" e importe o aquivo com extensão ".aia", é necessário exportar seu arquivo ".aia" para enviar suas edições para o github.
 O controle do Hardware está sendo feito com a utilização da plataforma Arduino.
 Lembre-se de realizarem as "pull requests" com suas edições para que possam ser adicionadas "branch" principal.
 
-###6. Informações sobre a licença e autores
+###4. Informações sobre a licença e autores
 
-Este projeto está  disponível sobre #todo licence, veja licence.txt para mais informações.
+Este projeto está disponível sobre a licença MIT, veja o arquivo licence.txt para mais informações.
 
 Ítalo Fernandes - Graduando em Engenharia Biomédica na UFU - Uberlândia, MG - Brazil 
 email: italogsfernandes@gmail.com
