@@ -10,7 +10,7 @@ Neste repósitorio, estão presentes as informações necessárias para o desenv
 
 
 ###2. Como colaborar e fazer parte? 
-
+Nesse link a lista de tarefas para esta semana: https://goo.gl/875jCB
 Você pode visualizar qualquer arquivo referente as etapas de desenvolvimento neste link do Google Drive: https://goo.gl/2S0JCH
 Os códigos para serem executados e alterados, estão presentes nesse repositório.
 Se for preciso ajuda ou mais informações, só enviar um email para algum dos nomes que estão no final dessa descrição.
