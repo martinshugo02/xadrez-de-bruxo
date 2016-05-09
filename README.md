@@ -37,8 +37,8 @@ email: italogsfernandes@gmail.com
 Ana Carolina Torres Cresto - Graduanda em Engenharia Biomédica na UFU - Uberlândia, MG - Brazil
 email: caroltc95@icloud.com
 
-
-
+Gabriel Chagas Lanes - Graduando em Engenharia Biomédica na UFU - Uberlândia, MG - Brazil
+email: gabriel560s@hotmail.com
 
 
 
