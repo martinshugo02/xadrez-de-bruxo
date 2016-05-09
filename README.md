@@ -40,6 +40,8 @@ email: caroltc95@icloud.com
 Gabriel Chagas Lanes - Graduando em Engenharia Biomédica na UFU - Uberlândia, MG - Brazil
 email: gabriel560s@hotmail.com
 
+Hugo Martins Correia - Graduando em Engenharia Biomédica na UFU - Uberlândia, MG - Brazil
+email: martinshugo02@gmail.com
 
 
 
